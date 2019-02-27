@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "This is a helloworld app using nodej, i am running",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HelloWorld",
+    "Nodejs",
+    "Learning"
+  ],
+  "author": "Peter",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
